@@ -1,0 +1,1 @@
+console.log('Vexa Exchange JS Loaded');
